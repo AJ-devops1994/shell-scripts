@@ -12,3 +12,4 @@ sudo systemctl enable nginx
 
 echo "nginx installed"
 
+making changes on dev branch
